@@ -81,8 +81,8 @@ body {
 } */
 
 h1 {
-    font-family: fantasy;
-    font-size: calc(400%);
+    font-family: 'Fantasy', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 72px;
     color: #0085A1;   
     text-align: center;
 }
